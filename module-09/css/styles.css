@@ -132,7 +132,7 @@ a {
 .main-title {
   font-family: 'Montserrat', 'Arial', sans-serif;
   font-weight: 700;
-  line-height: 1, 2;
+  line-height: 1.2;
   color: rgb(255, 255, 255);
   text-transform: uppercase;
 }
@@ -332,6 +332,7 @@ a {
 }
 
 @media (min-width: 768px) and (max-width: 991px) {
+
   .partner-list-item:nth-of-type(1),
   .partner-list-item:nth-of-type(2) {
     margin-right: 20px;
