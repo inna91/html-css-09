@@ -189,6 +189,7 @@ a {
 
 .partner-list-item {
   width: 220px;
+  margin: 0 auto;
 }
 
 .wrap-img {
@@ -298,6 +299,10 @@ a {
   .main-title {
     font-size: 30px;
     margin-bottom: 20px;
+  }
+
+  .main-title-br {
+    display: block;
   }
 
   .main-title-descr {
